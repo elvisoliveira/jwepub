@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "jwepub/static/css/main.3424864c.css",
-    "main.js": "jwepub/static/js/main.5ec2a635.js",
-    "index.html": "jwepub/index.html",
-    "main.3424864c.css.map": "jwepub/static/css/main.3424864c.css.map",
-    "main.5ec2a635.js.map": "jwepub/static/js/main.5ec2a635.js.map"
+    "main.css": "/jwepub/static/css/main.3424864c.css",
+    "main.js": "/jwepub/static/js/main.781b96eb.js",
+    "index.html": "/jwepub/index.html",
+    "main.3424864c.css.map": "/jwepub/static/css/main.3424864c.css.map",
+    "main.781b96eb.js.map": "/jwepub/static/js/main.781b96eb.js.map"
   },
   "entrypoints": [
     "static/css/main.3424864c.css",
-    "static/js/main.5ec2a635.js"
+    "static/js/main.781b96eb.js"
   ]
 }
