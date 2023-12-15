@@ -20,6 +20,7 @@ function App() {
         { meetings.length > 0 ? <JSONPretty data={meetings}></JSONPretty> : <>
             <h3>Upload your File :</h3>
             <FileUploader handleChange={handleChange} name="file" types={["EPUB"]} />
+            <p>Download <a target="_blank" href="https://www.jw.org/en/library/jw-meeting-workbook/">here</a></p>
           </> }
     </div>
   );
